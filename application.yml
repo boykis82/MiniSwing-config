@@ -17,8 +17,8 @@ eureka:
 spring.rabbitmq:
   host: 127.0.0.1
   port: 5672
-  username: guest
-  password: '{cipher}17fcf0ae5b8c5cf87de6875b699be4a1746dd493a99d926c7a26a68c422117ef'
+  username: swing
+  password: '{cipher}943c01c7c024119b6e0fd9f9716369fbce2141788101f0ffc707704f90cca211'
 
 spring.zipkin.sender.type: rabbit
 spring.sleuth.sampler.probability: 1.0
